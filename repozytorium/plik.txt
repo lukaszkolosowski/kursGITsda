@@ -1,5 +1,3 @@
 To jest kolejna zmiana w pliku. Edycja w dn. 29.11.2022 11:58. Dodano tekst 29.11.2022 12:11.
 
 @@@@@@@@@@ Zmiana 29.11.2022 21:25
-
-Dodanie nowej eksperymentalnej funkcjonalności 29.11.2022 22:24
